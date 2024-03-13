@@ -5,4 +5,6 @@ const Header = () => (
       <h1>SocialHub</h1>
       {/* Add navigation links here */}
     </header>
-  );
+);
+
+export default Header;
