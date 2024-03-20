@@ -8,7 +8,9 @@ const Layout = ({ children }) => (
       <title>SocialHub</title>
     </Head>
     <Header />
-    <main>{children}</main>
+    <main>
+      {children}
+    </main>
   </div>
 );
 
