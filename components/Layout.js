@@ -5,7 +5,6 @@ import Dashboard from './Dashboard';
 const Layout = ({ children }) => (
   <div>
     <Head>
-      <title>SocialHub</title>
     </Head>
     <Header />
     <main>
